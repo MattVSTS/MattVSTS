@@ -1,10 +1,9 @@
 ### Welcome! 👋 I am Matteo.
 I always loved Software Development, however I always ended up on the other side of the fence. The glue between the two? **DevOps practices**.
 
-As you can see below I try to dabble with open source whevever I can - hopefully more in the future! I really like techology with a purpose.  
-My job is at Avanade UK - I am a Director in the Software Engineering practice and the Head of Software Engineering for the Accenture Microsoft Business Group in the UK. Modern Cloud, DevOps and people development keep me busy every single day, as well as generating new value for my clients every day. However everything you will find here is not work-related.
+My job is at Zema Global - I am the Director of Platform Engineering there. As you can see below I try to dabble with open source whevever I can - hopefully more in the future! I really like techology with a purpose.  
 
-My blog is [here](https://mattvsts.github.io), where I write about topics I feel close to me in the technical space. One of the many outlets of an Azure DevOps and GitHub MVP after all 😄 alternatively I hope to see you at a conference  around the world (hopefully very soon!).
+My blog is [here](https://mattvsts.github.io), where I write about topics I feel close to me in the technical space. One of the many outlets of an Azure DevOps and GitHub MVP after all 😄 alternatively I hope to see you at a conference around the world (hopefully very soon!).
 
 <!--
 **MattVSTS/MattVSTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
